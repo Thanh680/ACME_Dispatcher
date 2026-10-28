@@ -1,0 +1,59 @@
+{
+  "name": "ACME_Dispatcher",
+  "projectId": "fb555e8a-3646-4abc-8a88-1db31c3d4ac5",
+  "description": "Processus vierge",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Autossential.Activities": "[4.0.10]",
+    "UiPath.Excel.Activities": "[3.6.0-preview]",
+    "UiPath.System.Activities": "[26.10.0]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.1",
+  "studioVersion": "26.0.204.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "4b018c78-0f6d-4147-87ec-5f208c4ccc84",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

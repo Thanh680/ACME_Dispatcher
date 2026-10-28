@@ -1,0 +1,6 @@
+{
+  "Name": "ACME_Dispatcher",
+  "ProjectType": "Process",
+  "Description": "Processus vierge",
+  "MainFile": "Main.xaml"
+}
